@@ -1,3 +1,3 @@
 # BI-Project
-Bat-el Arjuan
+Bat-el Arjuan &
 Eli Elias
